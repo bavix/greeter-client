@@ -1,5 +1,18 @@
 # Changelog
 
+## v1.0.7 - 2024-02-28
+
+### What's Changed
+
+* Bump bavix/.github from 0.2.3 to 0.2.4 by [@dependabot](https://github.com/dependabot) in https://github.com/bavix/greeter-client/pull/13
+* golang 1.22 by [@rez1dent3](https://github.com/rez1dent3) in https://github.com/bavix/greeter-client/pull/14
+
+### New Contributors
+
+* [@rez1dent3](https://github.com/rez1dent3) made their first contribution in https://github.com/bavix/greeter-client/pull/14
+
+**Full Changelog**: https://github.com/bavix/greeter-client/compare/v1.0.6...v1.0.7
+
 ## v1.0.6 - 2024-02-20
 
 ### What's Changed
