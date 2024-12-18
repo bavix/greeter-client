@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.0.9 - 2024-12-18
+
+### What's Changed
+
+* Bump bavix/.github from 0.3.0 to 0.3.2 by [@dependabot](https://github.com/dependabot) in https://github.com/bavix/greeter-client/pull/18
+* Bump bavix/.github from 0.3.2 to 0.3.3 by [@dependabot](https://github.com/dependabot) in https://github.com/bavix/greeter-client/pull/19
+
+**Full Changelog**: https://github.com/bavix/greeter-client/compare/v1.0.8...v1.0.9
+
 ## v1.0.8 - 2024-06-18
 
 ### What's Changed
