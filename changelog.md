@@ -1,5 +1,19 @@
 # Changelog
 
+## v1.1.1 - 2026-04-15
+
+### What's Changed
+
+* Bump actions/checkout from 5 to 6 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/greeter-client/pull/22
+* Bump bavix/.github/.github/workflows/changelog.yml from 0.4.0 to 0.4.1 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/greeter-client/pull/23
+* Bump docker/setup-qemu-action from 3 to 4 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/greeter-client/pull/24
+* Bump docker/metadata-action from 5 to 6 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/greeter-client/pull/25
+* Bump docker/build-push-action from 6 to 7 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/greeter-client/pull/26
+* Bump docker/setup-buildx-action from 3 to 4 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/greeter-client/pull/27
+* Bump docker/login-action from 3 to 4 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/greeter-client/pull/28
+
+**Full Changelog**: https://github.com/bavix/greeter-client/compare/v1.1.0...v1.1.1
+
 ## v1.1.0 - 2025-09-05
 
 ### What's Changed
